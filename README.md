@@ -36,3 +36,17 @@ Only _cows_ and _oranges_ are implemented.
 Only _EUR_ and _USD_ are implemented.
 
 No currency conversion. Didn't make sense. Should be handled outside of the _Market_.
+
+### What's missing
+
+- error handling
+- comments
+
+### Build
+
+Use `build.sh`
+
+### Dependencies
+
+- Boost (unit tests)
+- CMake
